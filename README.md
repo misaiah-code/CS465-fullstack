@@ -1,2 +1,7 @@
-# CS465-fullstack
-CS-465 Full Stack Development with MEAN
+# CS465 Final Journal
+
+### Architecture
+- This project utilized two distinct types of frontend development:
+1. ff
+2. 
+
